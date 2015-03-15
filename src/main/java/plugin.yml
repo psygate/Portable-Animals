@@ -1,0 +1,19 @@
+name: PortableAnimals
+main: org.diplocraft.portableanimals.PortableAnimals
+version: 0.0.1
+author: psygate
+database: false
+
+permissions:
+    portableanimals.use:
+        default: false
+    portableanimals.admin:
+        default: op
+        
+#commands:
+#    portalbeanimalsallow:
+#        aliases: [paallow]
+#        descritpion: Allows a user to use portable animals.
+#        permission: portableanimals.admin
+#        permission-message: You are not allowed to modify PortableAnimals.
+#        usage: /portableanimalsallow <username>
